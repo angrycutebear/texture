@@ -15,7 +15,7 @@ permalink: /posts/:title/
 texture:
   title: 곰탱이
   tagline: 코딩 못하는 바보 학생 개발자
-  date_format: "%b %-d, %Y"
+  date_format: "%Y년 %m월 %d일"
   style: black
 
   # generate social links in footer
